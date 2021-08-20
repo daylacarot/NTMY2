@@ -1,17 +1,25 @@
 {    
     "title": "Rất Vui Được Gặp Cậu",
-    "description": "Câu chuyện tình cảm học đường xoay quanh những con người đáng ew. \r\n Tác giả: Wishroomness \r\n Thực hiện: #Xám + #Gory",
+    "description": "Câu chuyện tình cảm học đường xoay quanh những con người đáng ew. \r\n Tác giả: Wishroomness \r\n Thực hiện: #Xám + #Gory \r\n Update nhanh nhất tại: https://www.facebook.com/carotnhamnhi",
     "author": "Wishroomness",
     "artist": "Wishroomness and Paul Jun",
     "cover": "https://i.imgur.com/TpDcGFF.png",
     "chapters": {
-        "45": {
+        "42": {
             "groups": {
-                "Cà Rốt Nhảm Nhí": "/proxy/api/imgur/chapter/jPpFdr7"
+                "Cà Rốt Nhảm Nhí": "/proxy/api/imgur/chapter/kPlt88B"
             },
             "last_updated": 1629452167,
             "title": "SS2",
             "volume": "2"
-        }
+        },
+        "<45>": {
+      "title": "SS2",
+      "volume": "2",
+      "groups": {
+        "<Cà Rốt Nhảm Nhí>": "/proxy/api/imgur/chapter/jPpFdr7"
+      },
+      "last_updated": 1629452167,
+    }
     }
 }
