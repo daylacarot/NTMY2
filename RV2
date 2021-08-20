@@ -1,0 +1,17 @@
+{    
+  "title": "Rat Vui Duoc Gap Cau",
+  "description": "1 cau chuyen hoc duong tinh cam dang ew",
+  "author": "Wishroomness",
+  "artist": "Wishroomness and Paul Jun",
+  "cover": "https://i.imgur.com/TpDcGFF.png",
+  "chapters": {
+      "Chap 45": {
+          "groups": {
+              "Cà Rốt Nhảm Nhí": "/proxy/api/imgur/chapter/jPpFdr7"
+          },
+          "last_updated": 1624606143,
+          "title": "",
+          "volume": "SS2"
+      }
+  }
+}
