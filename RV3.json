@@ -13,11 +13,11 @@
          "title":"SS2",
          "volume":"2"
       },
-      "<45>":{
+      "45":{
          "title":"SS2",
          "volume":"2",
          "groups":{
-            "<Cà Rốt Nhảm Nhí>":"/proxy/api/imgur/chapter/jPpFdr7"
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/jPpFdr7"
          },
          "last_updated":1629452167
       }
