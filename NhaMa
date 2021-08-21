@@ -134,7 +134,7 @@
          "last_updated":1629452167
       },
       "15.5":{
-         "title":"",
+         "title":"Prologue",
          "volume":"1",
          "groups":{
             "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/n1ZcQr5"
@@ -162,6 +162,14 @@
          "volume":"1",
          "groups":{
             "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/z13Y4hI"
+         },
+         "last_updated":1629452167
+      },
+      "18.5":{
+         "title":"Tổng hợp Extra",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/gYyGfN7"
          },
          "last_updated":1629452167
       }
