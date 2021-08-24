@@ -5,16 +5,72 @@
    "artist":"Wishroomness and Paul Jun",
    "cover":"https://i.imgur.com/TpDcGFF.png",
    "chapters":{
+      "1":{
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/LByvMjT"
+         },
+         "last_updated":1629789558,
+         "title":"SS1",
+         "volume":"1"
+      },
+      "2":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/vldiBli"
+         },
+         "last_updated":1629789558
+      },
+      "3":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/Hgd2DNn"
+         },
+         "last_updated":1629789558
+      },
+      "4":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/MWWDm0I"
+         },
+         "last_updated":1629789558
+      },
+      "5":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/pEXBDwF"
+         },
+         "last_updated":1629789558
+      },
+      "6":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/wLS7VfE"
+         },
+         "last_updated":1629789558
+      },
+      "7":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/vb7bLVN"
+         },
+         "last_updated":1629789558
+      },
       "42":{
+         "title":"SS2",
+         "volume":"2",
          "groups":{
             "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/hrNkJ3k"
          },
-         "last_updated":1629452167,
-         "title":"SS2",
-         "volume":"2"
+         "last_updated":1629452167
       },
       "43":{
-         "title":"SS2",
+         "title":"",
          "volume":"2",
          "groups":{
             "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/j2dgIFs"
@@ -22,7 +78,7 @@
          "last_updated":1629452167
       },
       "44":{
-         "title":"SS2",
+         "title":"",
          "volume":"2",
          "groups":{
             "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/aZk6Hzz"
@@ -30,7 +86,7 @@
          "last_updated":1629452167
       },
       "45":{
-         "title":"SS2",
+         "title":"",
          "volume":"2",
          "groups":{
             "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/jPpFdr7"
