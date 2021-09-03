@@ -1,0 +1,17 @@
+{
+   "title":"Kết thúc sau 4 phút",
+   "description":"Câu chuyện về cuộc đời của 1 con người và 1 thần chết. \r\n Tác giả: Yariku Hirahama \r\n Thực hiện: #summeriot - https://www.facebook.com/carotnhamnhi",
+   "author":"Yariku Hirahama",
+   "artist":"Yariku Hirahama",
+   "cover":"https://i.imgur.com/AD4JABj.jpg",
+   "chapters":{
+      "0":{
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/ikkwHqr"
+           },
+            "last_updated": 1630661241,
+            "title": "Oneshot",
+            "volume": "1"
+        }
+    }
+}
