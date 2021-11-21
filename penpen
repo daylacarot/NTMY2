@@ -1,0 +1,17 @@
+{
+   "title":"Cánh cụt Penpen",
+   "description":"Câu chuyện về một cậu bé và chú chim cánh cụt \r\n Thực hiện: #summeriot - https://www.facebook.com/carotnhamnhi",
+   "author":"penguin259",
+   "artist":"penguin259",
+   "cover":"https://i.imgur.com/VYgKjcb.png",
+   "chapters":{
+      "0":{
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/RIVCpPg"
+           },
+            "last_updated": 1637490497,
+            "title": "Oneshot",
+            "volume": "0"
+        }
+    }
+}
