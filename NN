@@ -92,6 +92,22 @@
             "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/usloBT3"
          },
          "last_updated":1637149846
+      },
+      "12":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/X4DNnuD"
+         },
+         "last_updated":1639758441
+      },
+      "13":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/jFmmATj"
+         },
+         "last_updated":1639758441
       }
    }
 }
