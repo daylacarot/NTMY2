@@ -1,0 +1,65 @@
+{
+   "title":"Chị hàng xóm mít ướt",
+   "description":"Câu chuyện về chị hàng xóm mít ướt vừa ly dị sống cạnh nhà nam chính \r\n Trans and Edit: #summeriot \r\n Update nhanh nhất tại: https://www.facebook.com/carotnhamnhi",
+   "author":"Zyugoya",
+   "artist":"Zyugoya",
+   "cover":"https://i.imgur.com/XpEqO48.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/CATnl8G"
+         },
+         "last_updated":1643600913,
+         "title":"",
+         "volume":"1"
+      },
+      "10":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/Rl4yssn"
+         },
+         "last_updated":1643600913
+      },
+      "11":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/xbInS9G"
+         },
+         "last_updated":1643600913
+      },
+      "15":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/fggC6qZ"
+         },
+         "last_updated":1643600913
+      },      
+      "19":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/BqDQ1y7"
+         },
+         "last_updated":1643600913
+      },      
+      "20":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/eHdn3ON"
+         },
+         "last_updated":1643600913
+      },                  
+      "21":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/jFmEGMV"
+         },
+         "last_updated":1643600913
+      },
+   }
+}
