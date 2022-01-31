@@ -7,11 +7,75 @@
    "chapters":{
       "1":{
          "groups":{
-            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/CATnl8G"
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/DCBCeBn"
          },
          "last_updated":1643600913,
          "title":"",
          "volume":"1"
+      },
+      "2":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/MzlJgaB"
+         },
+         "last_updated":1643600913
+      },
+      "3":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/hKDUQIJ"
+         },
+         "last_updated":1643600913
+      },
+      "4":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/OUDSDle"
+         },
+         "last_updated":1643600913
+      },
+      "5":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/eHXM4dg"
+         },
+         "last_updated":1643600913
+      },
+      "6":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/dM3oFZV"
+         },
+         "last_updated":1643600913
+      },
+      "7":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/RYchvEf"
+         },
+         "last_updated":1643600913
+      },
+      "8":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/07Yz2Xt"
+         },
+         "last_updated":1643600913
+      },
+      "9":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/G0BObzC"
+         },
+         "last_updated":1643600913
       },
       "10":{
          "title":"",
@@ -29,11 +93,59 @@
          },
          "last_updated":1643600913
       },
+      "12":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/6ME2B3S"
+         },
+         "last_updated":1643600913
+      },
+      "13":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/sM3vh5C"
+         },
+         "last_updated":1643600913
+      },
+      "14":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/NlVbBkv"
+         },
+         "last_updated":1643600913
+      },
       "15":{
          "title":"",
          "volume":"1",
          "groups":{
             "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/fggC6qZ"
+         },
+         "last_updated":1643600913
+      },      
+      "16":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/SgpPVn0"
+         },
+         "last_updated":1643600913
+      },      
+      "17":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/Fklrbxg"
+         },
+         "last_updated":1643600913
+      },      
+      "18":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/MsGpEbv"
          },
          "last_updated":1643600913
       },      
@@ -60,6 +172,6 @@
             "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/jFmEGMV"
          },
          "last_updated":1643600913
-      },
+      }
    }
 }
