@@ -172,6 +172,30 @@
             "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/jFmEGMV"
          },
          "last_updated":1643600913
+      },                
+      "22":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/N7c7DkA"
+         },
+         "last_updated":1643944529
+      },             
+      "23":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/vGaS1S1"
+         },
+         "last_updated":1643944529
+      },             
+      "24":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/JbajjJu"
+         },
+         "last_updated":1643944529
       }
    }
 }
