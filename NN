@@ -1,6 +1,6 @@
 {
    "title":"Bình thường mới",
-   "description":"Trong 1 thế giới mà việc đeo khẩu trang mọi lúc là điều đương nhiên. \r\n Tác giả: Aihara Akito \r\n Trans: #Lou . Edit: #nnsbla \r\n Update nhanh nhất tại: https://www.facebook.com/carotnhamnhi",
+   "description":"Trong 1 thế giới mà việc đeo khẩu trang mọi lúc là điều đương nhiên. \r\n Tác giả: Aihara Akito \r\n Trans: #Lou . Edit: #nnsbla \r\n Hiện tại đã drop do không có nguồn raw",
    "author":"Aihara Akito",
    "artist":"Aihara Akito",
    "cover":"https://i.imgur.com/1n4F9tq.png",
@@ -108,6 +108,14 @@
             "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/jFmmATj"
          },
          "last_updated":1639758441
+      },
+      "14":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/q1izI5O"
+         },
+         "last_updated":1644063387
       }
    }
 }
