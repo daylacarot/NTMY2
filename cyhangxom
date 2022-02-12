@@ -196,6 +196,22 @@
             "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/JbajjJu"
          },
          "last_updated":1643944529
+      },         
+      "25":{
+         "title":"",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/p7MeIJf"
+         },
+         "last_updated":1644671088
+      },      
+      "26":{
+         "title":"End SS1",
+         "volume":"1",
+         "groups":{
+            "Cà Rốt Nhảm Nhí":"/proxy/api/imgur/chapter/JbajjJu"
+         },
+         "last_updated":1644671088
       }
    }
 }
